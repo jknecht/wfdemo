@@ -1,4 +1,4 @@
 wfdemo
 ======
 
-A small repo for trying out workflows
+A nice, small repo for trying out workflows
